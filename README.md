@@ -1,2 +1,2 @@
 # Botonera
-Proyecto botonera
+Proyecto botonera con Python y Tkinter
